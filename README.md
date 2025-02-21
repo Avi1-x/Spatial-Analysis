@@ -5,10 +5,10 @@ This project conducts spatial analysis on crime data from the **Index of Multipl
 ## Visualisations from Project
 
 #### London Crime Hotspots
-![London Crime Hotspots](./London_Hotspots.png)
+![London Crime Hotspots](./images/London_Hotspots.png)
 
 #### Birmingham Crime Hotspots
-![Birmingham Crime Hotspots](./Birmingham_Hotspots.png)
+![Birmingham Crime Hotspots](./images/Birmingham_Hotspots.png)
 
 #### Manchester Crime Hotspots
-![Manchester Crime Hotspots](./Manchester_Hotspots.png)
+![Manchester Crime Hotspots](./images/Manchester_Hotspots.png)
